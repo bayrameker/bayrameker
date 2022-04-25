@@ -3,13 +3,15 @@
 ### Languages
 
 ![PHP](https://img.shields.io/badge/-Php-000?&logo=Php)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTMŞ](https://img.shields.io/badge/-Html-000?&logo=Html)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+
 
 ### Technologies
 
