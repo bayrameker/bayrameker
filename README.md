@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayrameker" alt="bayrameker" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot and React.js**
+- 🌱 I’m currently learning **Java and Python for AI**
 
 - 📝 I regularly write articles on [https://medium.com/@bayramblog](https://medium.com/@bayramblog)
 
-- 💬 Ask me about **Java, React, and Vue**
+- 💬 Ask me about **Spring Boot, Tensorflow and AI**
 
 - 📫 How to reach me **eker600@gmail.com**
 
